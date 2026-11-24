@@ -1,4 +1,4 @@
-# Contributing to Kreo
+# Contributing to Alya
 
 Start with the [setup guide](SETUP_GUIDE.md), then read [LICENSE](LICENSE). Source
 availability does not grant unrestricted redistribution rights. Public modified
